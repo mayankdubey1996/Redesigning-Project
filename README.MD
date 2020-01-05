@@ -3,5 +3,5 @@ Librarires like ggplot2 and micromapas were used. I also used gradient coloring 
 
 
 Graph link:-
-<https://www.courrierinternational.com/grand-format/infographie-la-disparition-du-cash- un-phenomene-mondial#&gid=1&pid=1.>
+<https://www.courrierinternational.com/grand-format/infographie-la-disparition-du-cash-un-phenomene-mondial#&gid=1&pid=1.>
 <https://www.nationsreportcard.gov/profiles/stateprofile?chort=1&sub=MAT&sj=&sfj=N P&st=MN&year=2017R3.>
